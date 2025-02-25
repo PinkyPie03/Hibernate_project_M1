@@ -36,4 +36,17 @@ public class EmployeController {
         session.getTransaction().commit();
         session.close();
     }
+
+    public void afficherEmployes(){
+
+    }
+    public void modifierEmploye(){
+
+    }
+    public void supprimerEmploye(){
+
+    }
+    public void rechercherEmploye(){
+
+    }
 }
